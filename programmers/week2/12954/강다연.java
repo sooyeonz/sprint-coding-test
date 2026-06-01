@@ -11,6 +11,5 @@ class Solution {
             answer[i] = (long) x* (i+1);
         }
         return answer;
-
     }
 }
